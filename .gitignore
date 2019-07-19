@@ -1,5 +1,3 @@
 node_modules/
 dist/
-.env
-client_access.json
-yarn.lock
+/yarn.lock

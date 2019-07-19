@@ -75,7 +75,7 @@ async function mailer(name) {
    </div>`
 
   const emailData = {
-    to: Emails[name],
+    to: "TG@codeyourfuture.io",
     subject: "Thank you for submitting your expense",
     html,
     replyToEmail: "Do not reply"
